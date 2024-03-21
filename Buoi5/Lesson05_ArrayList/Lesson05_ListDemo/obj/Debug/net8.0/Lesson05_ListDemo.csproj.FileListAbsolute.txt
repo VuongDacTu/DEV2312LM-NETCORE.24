@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.exe
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.deps.json
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.runtimeconfig.json
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.dll
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\bin\Debug\net8.0\Lesson05_ListDemo.pdb
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.AssemblyInfo.cs
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.dll
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\refint\Lesson05_ListDemo.dll
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.pdb
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\Lesson05_ListDemo.genruntimeconfig.cache
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ListDemo\obj\Debug\net8.0\ref\Lesson05_ListDemo.dll

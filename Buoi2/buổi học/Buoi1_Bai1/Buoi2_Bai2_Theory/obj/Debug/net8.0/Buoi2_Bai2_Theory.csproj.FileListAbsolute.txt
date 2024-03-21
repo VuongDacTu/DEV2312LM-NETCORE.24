@@ -1,0 +1,14 @@
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\bin\Debug\net8.0\Buoi2_Bai2_Theory.exe
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\bin\Debug\net8.0\Buoi2_Bai2_Theory.deps.json
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\bin\Debug\net8.0\Buoi2_Bai2_Theory.runtimeconfig.json
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\bin\Debug\net8.0\Buoi2_Bai2_Theory.dll
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\bin\Debug\net8.0\Buoi2_Bai2_Theory.pdb
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.GeneratedMSBuildEditorConfig.editorconfig
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.AssemblyInfoInputs.cache
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.AssemblyInfo.cs
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.csproj.CoreCompileInputs.cache
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.dll
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\refint\Buoi2_Bai2_Theory.dll
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.pdb
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\Buoi2_Bai2_Theory.genruntimeconfig.cache
+D:\lean in dev\Buoi1_Bai1\Buoi2_Bai2_Theory\obj\Debug\net8.0\ref\Buoi2_Bai2_Theory.dll

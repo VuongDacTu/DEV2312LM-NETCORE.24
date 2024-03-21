@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Lesson08_Theory.styles.css" asp-append-version="true" />
+</head>
+<body>
+    @Html.Partial("_Header")
+    <section class="container">
+        <div class="row">
+            <div class="col-md-3">
+                @* <h2>Menu danh mục</h2> *@
+                @Html.Partial("_menuCategory")
+            </div>
+            <div class="col-md-9">
+                @RenderBody()
+
+            </div>
+        </div>
+    </section>
+    @Html.Partial("_footer")
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

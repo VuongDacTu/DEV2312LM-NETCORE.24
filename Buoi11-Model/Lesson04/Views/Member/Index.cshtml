@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Lesson04.Models.DataModels.Member>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Thông tin Member</h2>
+<a class="- -" asp-area="" asp-controller="Member" asp-action="Create">Create</a>
+
+<div class="alert alert-danger">
+    <p>Member Id = @ViewBag.member.MemberId</p>
+    <p>User Name = @ViewBag.member.UserName</p>
+    <p>Password = @ViewBag.member.Password</p>
+    <p>Full Name = @ViewBag.member.FullName</p>
+    <p>Email = @ViewBag.member.Email</p>
+</div>

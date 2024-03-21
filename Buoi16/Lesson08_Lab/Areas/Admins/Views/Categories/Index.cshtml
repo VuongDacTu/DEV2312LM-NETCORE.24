@@ -1,0 +1,86 @@
+﻿
+@model X.PagedList.IPagedList<Lesson08_Lab.Models.Category>
+@using X.PagedList.Mvc.Core;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh sách loại sản phẩm</h1>
+
+<div class="row">
+    <form action="" method="get" class="form-inline">
+        <div class="form-group">
+            <label class="sr-only" for="keyword">Tìm theo tên loại</label>
+            <input class="form-control" name="name" id="keyword" placeholder="Nhập tên cần tìm" value="@ViewBag.keyword" />
+        </div>
+        <button type="submit" class="btn btn-default mr-1"><i class="fa fa-search"></i></button>
+            <a class="btn btn-primary" asp-action="Create">Thêm mới</a>
+
+    </form>
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().CreatedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+                        @if(item.Status == 1)
+                        {
+                            <span class="badge rounded-pill text-bg-success">Hiển thị</span>
+                        }
+                        else{
+
+                            <span class="badge rounded-pill text-bg-danger">Ẩn</span>
+
+                            }
+                        </td>
+            <td>
+                @String.Format("{0:dd/MM/yyyy}",item.CreatedDate)
+            </td>
+            <td>
+                <img src="~/images/categories/@item.Image" alt="@item.Name" width="80px" height="50px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<hr />
+@Html.PagedListPager(Model,page => Url.Action("Index",new{page = page}),new PagedListRenderOptions{
+    LiElementClasses = new string[]{"page-item"},
+    PageClasses = new string[]{"page-link"}
+    
+})
+</div>

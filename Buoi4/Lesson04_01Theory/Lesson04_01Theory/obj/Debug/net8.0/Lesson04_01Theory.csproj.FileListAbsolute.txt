@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\bin\Debug\net8.0\Lesson04_01Theory.exe
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\bin\Debug\net8.0\Lesson04_01Theory.deps.json
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\bin\Debug\net8.0\Lesson04_01Theory.runtimeconfig.json
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\bin\Debug\net8.0\Lesson04_01Theory.dll
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\bin\Debug\net8.0\Lesson04_01Theory.pdb
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.AssemblyInfo.cs
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.dll
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\refint\Lesson04_01Theory.dll
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.pdb
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\Lesson04_01Theory.genruntimeconfig.cache
+E:\lean in dev\Buoi4\Lesson04_01Theory\Lesson04_01Theory\obj\Debug\net8.0\ref\Lesson04_01Theory.dll

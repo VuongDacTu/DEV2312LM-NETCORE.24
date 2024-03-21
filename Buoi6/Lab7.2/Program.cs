@@ -1,0 +1,12 @@
+﻿Business.House h = new Business.House();
+h.HouseNo = "D294FF";
+h.Price = 425880;
+Console.WriteLine("House detail");
+Console.WriteLine("\tHouse No: "+ h.HouseNo);
+Console.WriteLine("\tPrice: "+h.Price);
+Business.Dealership.Car c = new Business.Dealership.Car();
+c.CarNo = "A0999";
+c.Price = 38425.50M;
+Console.WriteLine("Car detail");
+Console.WriteLine("\tCar No: " + c.CarNo);
+Console.WriteLine("\tPrice: " +  c.Price);

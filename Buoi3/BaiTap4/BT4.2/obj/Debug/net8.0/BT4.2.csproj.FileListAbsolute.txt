@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\bin\Debug\net8.0\BT4.2.exe
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\bin\Debug\net8.0\BT4.2.deps.json
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\bin\Debug\net8.0\BT4.2.runtimeconfig.json
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\bin\Debug\net8.0\BT4.2.dll
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\bin\Debug\net8.0\BT4.2.pdb
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.AssemblyInfo.cs
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.dll
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\refint\BT4.2.dll
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.pdb
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\BT4.2.genruntimeconfig.cache
+E:\lean in dev\Buoi3\BaiTap4\BT4.2\obj\Debug\net8.0\ref\BT4.2.dll

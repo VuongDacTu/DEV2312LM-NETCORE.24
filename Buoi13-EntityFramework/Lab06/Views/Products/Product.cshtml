@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Lab06.Models.DataModels.Product>
+
+@{
+    ViewData["Title"] = "Product";
+}
+
+<h1>Danh sách sản phẩm</h1>
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+            <div class="col-sm-3">
+                <img src="imgs/@item.Image" alt="@item.Name" />
+                <p>@item.Name</p>
+            </div>
+    }
+</div>

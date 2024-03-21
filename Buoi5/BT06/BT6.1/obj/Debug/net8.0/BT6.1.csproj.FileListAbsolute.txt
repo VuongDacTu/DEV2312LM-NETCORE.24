@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi5\BT06\BT6.1\bin\Debug\net8.0\BT6.1.exe
+E:\lean in dev\Buoi5\BT06\BT6.1\bin\Debug\net8.0\BT6.1.deps.json
+E:\lean in dev\Buoi5\BT06\BT6.1\bin\Debug\net8.0\BT6.1.runtimeconfig.json
+E:\lean in dev\Buoi5\BT06\BT6.1\bin\Debug\net8.0\BT6.1.dll
+E:\lean in dev\Buoi5\BT06\BT6.1\bin\Debug\net8.0\BT6.1.pdb
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.AssemblyInfo.cs
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.dll
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\refint\BT6.1.dll
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.pdb
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\BT6.1.genruntimeconfig.cache
+E:\lean in dev\Buoi5\BT06\BT6.1\obj\Debug\net8.0\ref\BT6.1.dll

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "IndexModel";
+    var member = Model as Lesson04.Models.DataModels.Member;
+}
+
+<h2>Thông tin Member</h2>
+<a class="" asp-area="" asp-controller="Member" asp-action="Create">Create</a>
+
+<div class="alert alert-danger">
+    <p>Member Id = @member.MemberId</p>
+    <p>User Name = @member.UserName</p>
+    <p>Full Name = @member.FullName</p>
+    <p>Password = @member.Password</p>
+    <p>Email = @member.Email</p>
+</div>

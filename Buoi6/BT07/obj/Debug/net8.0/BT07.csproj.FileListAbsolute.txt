@@ -1,0 +1,4 @@
+E:\lean in dev\Buoi6\BT07\obj\Debug\net8.0\BT07.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi6\BT07\obj\Debug\net8.0\BT07.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi6\BT07\obj\Debug\net8.0\BT07.AssemblyInfo.cs
+E:\lean in dev\Buoi6\BT07\obj\Debug\net8.0\BT07.csproj.CoreCompileInputs.cache

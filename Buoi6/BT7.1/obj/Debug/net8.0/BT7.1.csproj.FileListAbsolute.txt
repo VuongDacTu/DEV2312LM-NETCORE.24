@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi6\BT7.1\bin\Debug\net8.0\BT7.1.exe
+E:\lean in dev\Buoi6\BT7.1\bin\Debug\net8.0\BT7.1.deps.json
+E:\lean in dev\Buoi6\BT7.1\bin\Debug\net8.0\BT7.1.runtimeconfig.json
+E:\lean in dev\Buoi6\BT7.1\bin\Debug\net8.0\BT7.1.dll
+E:\lean in dev\Buoi6\BT7.1\bin\Debug\net8.0\BT7.1.pdb
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.AssemblyInfo.cs
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.dll
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\refint\BT7.1.dll
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.pdb
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\BT7.1.genruntimeconfig.cache
+E:\lean in dev\Buoi6\BT7.1\obj\Debug\net8.0\ref\BT7.1.dll

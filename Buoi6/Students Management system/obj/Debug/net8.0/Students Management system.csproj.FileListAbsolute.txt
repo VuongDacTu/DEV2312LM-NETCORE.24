@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi6\Students Management system\bin\Debug\net8.0\Students Management system.exe
+E:\lean in dev\Buoi6\Students Management system\bin\Debug\net8.0\Students Management system.deps.json
+E:\lean in dev\Buoi6\Students Management system\bin\Debug\net8.0\Students Management system.runtimeconfig.json
+E:\lean in dev\Buoi6\Students Management system\bin\Debug\net8.0\Students Management system.dll
+E:\lean in dev\Buoi6\Students Management system\bin\Debug\net8.0\Students Management system.pdb
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.AssemblyInfo.cs
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.dll
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\refint\Students Management system.dll
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.pdb
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\Students Management system.genruntimeconfig.cache
+E:\lean in dev\Buoi6\Students Management system\obj\Debug\net8.0\ref\Students Management system.dll

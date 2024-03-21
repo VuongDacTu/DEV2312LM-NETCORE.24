@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.AssemblyInfo.cs
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\bin\Debug\net8.0\Lesson05_ArrayList.exe
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\bin\Debug\net8.0\Lesson05_ArrayList.deps.json
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\bin\Debug\net8.0\Lesson05_ArrayList.runtimeconfig.json
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\bin\Debug\net8.0\Lesson05_ArrayList.dll
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\bin\Debug\net8.0\Lesson05_ArrayList.pdb
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.dll
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\refint\Lesson05_ArrayList.dll
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.pdb
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\Lesson05_ArrayList.genruntimeconfig.cache
+E:\lean in dev\Buoi5\Lesson05_ArrayList\Lesson05_ArrayList\obj\Debug\net8.0\ref\Lesson05_ArrayList.dll

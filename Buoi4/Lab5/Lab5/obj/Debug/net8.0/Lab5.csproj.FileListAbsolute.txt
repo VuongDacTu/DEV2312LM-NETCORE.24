@@ -1,0 +1,4 @@
+E:\lean in dev\Buoi4\Lab5\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi4\Lab5\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi4\Lab5\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+E:\lean in dev\Buoi4\Lab5\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache

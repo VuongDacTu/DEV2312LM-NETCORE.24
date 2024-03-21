@@ -1,0 +1,14 @@
+E:\lean in dev\Buoi7\Lab8.0\bin\Debug\net8.0\Lab8.0.exe
+E:\lean in dev\Buoi7\Lab8.0\bin\Debug\net8.0\Lab8.0.deps.json
+E:\lean in dev\Buoi7\Lab8.0\bin\Debug\net8.0\Lab8.0.runtimeconfig.json
+E:\lean in dev\Buoi7\Lab8.0\bin\Debug\net8.0\Lab8.0.dll
+E:\lean in dev\Buoi7\Lab8.0\bin\Debug\net8.0\Lab8.0.pdb
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.AssemblyInfoInputs.cache
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.AssemblyInfo.cs
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.csproj.CoreCompileInputs.cache
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.dll
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\refint\Lab8.0.dll
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.pdb
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\Lab8.0.genruntimeconfig.cache
+E:\lean in dev\Buoi7\Lab8.0\obj\Debug\net8.0\ref\Lab8.0.dll
