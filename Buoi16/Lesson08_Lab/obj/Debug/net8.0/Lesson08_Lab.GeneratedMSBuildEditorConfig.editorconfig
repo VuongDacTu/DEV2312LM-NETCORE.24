@@ -17,195 +17,195 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lesson08_Lab
 build_property.RootNamespace = Lesson08_Lab
-build_property.ProjectDir = E:\lean in dev\Buoi16\Lesson08_Lab\
+build_property.ProjectDir = E:\DEV2312LM-NETCORE.24\Buoi16\Lesson08_Lab\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\lean in dev\Buoi16\Lesson08_Lab
+build_property.MSBuildProjectDirectory = E:\DEV2312LM-NETCORE.24\Buoi16\Lesson08_Lab
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Banners/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJsb2dzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJsb2dzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJsb2dzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJsb2dzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Blogs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJsb2dzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Dashboard/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyRGV0YWlsc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyRGV0YWlsc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyRGV0YWlsc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/OrderDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyRGV0YWlsc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Orders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE9yZGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFByb2R1Y3RzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFByb2R1Y3RzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFByb2R1Y3RzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFByb2R1Y3RzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/Error.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_ContentHeader.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_ContentHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxfQ29udGVudEhlYWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_Navbar.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxfTmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_Sidebar.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxfU2lkZWJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/_ViewImports.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/_ViewStart.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/Home/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/Home/Privacy.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/Shared/Error.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/_ViewImports.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/_ViewStart.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFNoYXJlZFxfTGF5b3V0QWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u0x1i25d58
 
-[E:/lean in dev/Buoi16/Lesson08_Lab/Views/Shared/_Layout.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi16/Lesson08_Lab/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d9cysokols

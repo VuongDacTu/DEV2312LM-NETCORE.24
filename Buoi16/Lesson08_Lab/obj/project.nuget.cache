@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wtb0KoIeLKIaoBKTFu8pPqxKw4c5kP/6394Y+KWmsgDNDQXi3TWuyVF18ETZxIJN1/SNztFc8+hvP1TqfFzWXA==",
+  "dgSpecHash": "wvdzU5OHUMYTyeu146G39ne61QkOdjC88TBi+Xy6gTOPVFIdetDl+mAxe+oiQfUdPPfbRdLr+8xgKtTuXZH2kg==",
   "success": true,
-  "projectFilePath": "E:\\lean in dev\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj",
+  "projectFilePath": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

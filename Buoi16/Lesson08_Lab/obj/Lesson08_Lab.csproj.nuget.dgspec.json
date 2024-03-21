@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lean in dev\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj": {}
+    "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj": {}
   },
   "projects": {
-    "E:\\lean in dev\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj": {
+    "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lean in dev\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj",
+        "projectUniqueName": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj",
         "projectName": "Lesson08_Lab",
-        "projectPath": "E:\\lean in dev\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj",
+        "projectPath": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\Lesson08_Lab.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\lean in dev\\Buoi16\\Lesson08_Lab\\obj\\",
+        "outputPath": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
