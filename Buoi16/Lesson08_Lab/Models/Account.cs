@@ -18,7 +18,7 @@ namespace Lesson08_Lab.Models
         [Display(Name = "Địa chỉ email")]
         [Required(ErrorMessage = "Địa chỉ email không được để trống")]
         [EmailAddress(ErrorMessage = "Địa chỉ email không đúng định dạng")]
-        [DataType(DataType.EmailAddress)]
+        //[DataType(DataType.EmailAddress)]
         public string Email { get; set; }
 
         [Display(Name = "Ảnh đại diện")]
