@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFyrR95V9rge38sjUFbZlVl7utW/nyvI1/hk2KvkLFsWaF7PgRBtc7+QTGuXLv1ekUoxlUWxLh6iCKceqPsdpQ==",
+  "dgSpecHash": "kz9OQ3/ojvQ55gPEuDgQhVwX34HedvgU+DGaWnZ86L/97sAeyXF7kV7eH4mVouJMCuZOBtrGzOUAe9YT/Ym5qQ==",
   "success": true,
-  "projectFilePath": "E:\\lean in dev\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj",
+  "projectFilePath": "E:\\DEV2312LM-NETCORE.24\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

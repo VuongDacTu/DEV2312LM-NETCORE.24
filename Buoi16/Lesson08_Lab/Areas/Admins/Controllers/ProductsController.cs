@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Lesson08_Lab.Models;
+using X.PagedList;
 
 namespace Lesson08_Lab.Areas.Admins.Controllers
 {
@@ -20,10 +21,34 @@ namespace Lesson08_Lab.Areas.Admins.Controllers
         }
 
         // GET: Admins/Products
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string name,int name1, int page = 1)
         {
+            int limit = 5;
+            var products = await _context.Products.OrderBy(x => x.Id).ToPagedListAsync(page, limit);
+
+
+            if (!String.IsNullOrEmpty(name))
+            {
+                if(name1 != 0)
+                {
+                    products = await _context.Products.Where(x => x.Name.Contains(name) && x.CategoryId == name1).OrderBy(x => x.Id).ToPagedListAsync(page, limit);
+                }
+                else
+                {
+                    products = await _context.Products.Where(x => x.Name.Contains(name)).OrderBy(x => x.Id).ToPagedListAsync(page, limit);
+                }
+            }
+            else if (name1 != 0)
+            {
+                products = await _context.Products.Where(x => x.CategoryId == name1).OrderBy(x => x.Id).ToPagedListAsync(page, limit);
+            }
+
+
             var appDbContext = _context.Products.Include(p => p.Category);
-            return View(await appDbContext.ToListAsync());
+            ViewBag.keyword = name;
+            ViewBag.keyword1 = name1;
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
+            return View(products);
         }
 
         // GET: Admins/Products/Details/5
@@ -61,6 +86,21 @@ namespace Lesson08_Lab.Areas.Admins.Controllers
         {
             if (ModelState.IsValid)
             {
+
+                    var files = HttpContext.Request.Form.Files;
+                if (files.Count() > 0 && files[0].Length > 0)
+                {
+                    var file = files[0];
+                    var FileName = file.FileName;
+                    // up load ảnh vào thư mục wwwroot\\images\\Category
+                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\images\\products", FileName);
+                    using (var stream = new FileStream(path, FileMode.Create))
+                    {
+                        file.CopyTo(stream);
+                        product.Image = FileName;
+                    }
+                }
+                product.CreatedDate = DateTime.Now;
                 _context.Add(product);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

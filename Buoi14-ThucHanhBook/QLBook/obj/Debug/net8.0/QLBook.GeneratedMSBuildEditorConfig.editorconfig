@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QLBook
 build_property.RootNamespace = QLBook
-build_property.ProjectDir = E:\lean in dev\Buoi14-ThucHanhBook\QLBook\
+build_property.ProjectDir = E:\DEV2312LM-NETCORE.24\Buoi14-ThucHanhBook\QLBook\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\lean in dev\Buoi14-ThucHanhBook\QLBook
+build_property.MSBuildProjectDirectory = E:\DEV2312LM-NETCORE.24\Buoi14-ThucHanhBook\QLBook
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Books/Create.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Books/Delete.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Books/Details.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Books/Edit.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Books/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Home/Index.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Home/Privacy.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Shared/Components/Category/Default.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Shared/Components/Category/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Shared/Error.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/_ViewImports.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/_ViewStart.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/lean in dev/Buoi14-ThucHanhBook/QLBook/Views/Shared/_Layout.cshtml]
+[E:/DEV2312LM-NETCORE.24/Buoi14-ThucHanhBook/QLBook/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g9e9qnjpzp

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lean in dev\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj": {}
+    "E:\\DEV2312LM-NETCORE.24\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj": {}
   },
   "projects": {
-    "E:\\lean in dev\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj": {
+    "E:\\DEV2312LM-NETCORE.24\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lean in dev\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj",
+        "projectUniqueName": "E:\\DEV2312LM-NETCORE.24\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj",
         "projectName": "QLBook",
-        "projectPath": "E:\\lean in dev\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj",
+        "projectPath": "E:\\DEV2312LM-NETCORE.24\\Buoi14-ThucHanhBook\\QLBook\\QLBook.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\lean in dev\\Buoi14-ThucHanhBook\\QLBook\\obj\\",
+        "outputPath": "E:\\DEV2312LM-NETCORE.24\\Buoi14-ThucHanhBook\\QLBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

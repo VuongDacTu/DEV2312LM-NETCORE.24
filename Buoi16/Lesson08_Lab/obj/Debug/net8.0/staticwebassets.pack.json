@@ -333,6 +333,14 @@
       "PackagePath": "staticwebassets\\images\\categories\\Screenshot 2024-03-09 125522.png"
     },
     {
+      "Id": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\wwwroot\\images\\products\\Screenshot 2024-02-18 130158.png",
+      "PackagePath": "staticwebassets\\images\\products\\Screenshot 2024-02-18 130158.png"
+    },
+    {
+      "Id": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\wwwroot\\images\\products\\Screenshot 2024-03-09 125522.png",
+      "PackagePath": "staticwebassets\\images\\products\\Screenshot 2024-03-09 125522.png"
+    },
+    {
       "Id": "E:\\DEV2312LM-NETCORE.24\\Buoi16\\Lesson08_Lab\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

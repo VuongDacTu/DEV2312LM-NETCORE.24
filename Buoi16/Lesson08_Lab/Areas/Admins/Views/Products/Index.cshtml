@@ -1,5 +1,5 @@
-﻿@model IEnumerable<Lesson08_Lab.Models.Product>
-
+﻿@model X.PagedList.IPagedList<Lesson08_Lab.Models.Product>
+@using X.PagedList.Mvc.Core
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
@@ -7,35 +7,48 @@
 
 <h1>Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<h1>Danh sách sản phẩm</h1>
+<div class="row">
+    <form action="" method="get" class="form-inline">
+        <div class="form-group">
+            <select name="name1" id="keyword1" class="form-control" asp-items="ViewBag.CategoryId">
+                <option value="0">Tất cả</option>
+            </select>
+            <label class="sr-only" for="keyword">Tìm theo tên loại</label>
+            <input class="form-control" name="name" id="keyword" placeholder="Nhập tên cần tìm" value="@ViewBag.keyword" />
+        </div>
+        <button type="submit" class="btn btn-default mr-1"><i class="fa fa-search"></i></button>
+        <a class="btn btn-primary" asp-action="Create">Thêm mới</a>
+
+    </form>
+
+
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Name)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Name)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Image)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Image)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Price)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Price)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.SalePrice)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().SalePrice)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Status)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Status)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Description)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Description)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CreatedDate)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().CreatedDate)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Category)
+                @Html.DisplayNameFor(model => model.FirstOrDefault().Category)
             </th>
             <th></th>
         </tr>
@@ -47,10 +60,10 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Image)
+                        <img src="~/images/categories/@item.Image" alt="@item.Name" width="100px" height="auto" />
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Price)
+                <del>@Html.DisplayFor(modelItem => item.Price) </del>
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.SalePrice)
@@ -76,3 +89,11 @@
 }
     </tbody>
 </table>
+<hr />
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions
+{
+    LiElementClasses = new string[] { "page-item" },
+    PageClasses = new string[] { "page-link" }
+
+})
+</div>
