@@ -13,7 +13,6 @@ namespace Lesson08_Lab.Areas.Admins.Controllers
     public class BlogsController : Controller
     {
         private readonly AppDbContext _context;
-
         public BlogsController(AppDbContext context)
         {
             _context = context;

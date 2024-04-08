@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Identity
+<link href="~/css/menu1.css" rel="stylesheet" />
+<nav class="nav">
+    <div class="container">
+        <div class="logo">
+@*             <a href="/Home/Index"><img src="~/imgs/images/logo1.png" /></a>
+ *@        </div>
+        <div id="mainListDiv" class="main_list">
+            <ul class="navlinks">
+                <li><a asp-controller="Home" asp-action="Index">Trang chủ</a></li>
+                <li><a asp-controller="Product" asp-action="Index">Sản phẩm</a></li>
+                @if (User.Identity.IsAuthenticated)
+                {
+
+                    <li>
+                        <a asp-controller="Login" asp-action="Logout">Đăng Xuất(@User.Identity.Name)</a>
+                    </li>
+                }
+                else
+                {
+                    <li>
+                        <a asp-controller="Login" asp-action="Login">Đăng nhập/Đăng ký</a>
+                    </li>
+                }
+                <li>
+                    <a class="cartLogo" asp-controller="cart" asp-action="Index"><i class="fa-solid fa-cart-shopping"></i></a>
+                </li>
+            </ul>
+        </div>
+        <span class="navTrigger">
+            <i></i>
+            <i></i>
+            <i></i>
+        </span>
+    </div>
+</nav>
+<section class="home">
+</section>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="~/js/menu1.js"></script>

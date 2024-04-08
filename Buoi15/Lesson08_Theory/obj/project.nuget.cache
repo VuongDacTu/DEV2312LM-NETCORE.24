@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VGeWmjDCdjuzcHr2TKQH91ZW23wp+Mv6BCxQHHiLiRIgm9Bh803xQi6FsHzSn9NGymW2Whmg8EF9tPTk09HIA==",
+  "dgSpecHash": "rGfItOfFc2/cutG3zoZ3rgED/id4nCO9R4bv25btcugQOOyMlp0m6J28g7ZP4ll4ctDhplw4ttR8DUbC7KiO0A==",
   "success": true,
-  "projectFilePath": "E:\\lean in dev\\Buoi15\\Lesson08_Theory\\Lesson08_Theory.csproj",
+  "projectFilePath": "E:\\DEV2312LM-NETCORE.24\\Buoi15\\Lesson08_Theory\\Lesson08_Theory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

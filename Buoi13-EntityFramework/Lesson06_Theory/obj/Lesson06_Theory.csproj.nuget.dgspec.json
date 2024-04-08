@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lean in dev\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj": {}
+    "E:\\DEV2312LM-NETCORE.24\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj": {}
   },
   "projects": {
-    "E:\\lean in dev\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj": {
+    "E:\\DEV2312LM-NETCORE.24\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lean in dev\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj",
+        "projectUniqueName": "E:\\DEV2312LM-NETCORE.24\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj",
         "projectName": "Lesson06_Theory",
-        "projectPath": "E:\\lean in dev\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj",
+        "projectPath": "E:\\DEV2312LM-NETCORE.24\\Buoi13-EntityFramework\\Lesson06_Theory\\Lesson06_Theory.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\lean in dev\\Buoi13-EntityFramework\\Lesson06_Theory\\obj\\",
+        "outputPath": "E:\\DEV2312LM-NETCORE.24\\Buoi13-EntityFramework\\Lesson06_Theory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

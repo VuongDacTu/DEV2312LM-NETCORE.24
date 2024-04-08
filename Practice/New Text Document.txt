@@ -1,0 +1,2 @@
+
+Scaffold-DbContext "Server=.\SQL2019;Database=BookStore;Trusted_Connection=True;MultipleActiveResultSets=True; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

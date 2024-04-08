@@ -29,7 +29,7 @@ namespace Lesson08_Lab.Areas.Admins.Controllers
 
             if (!String.IsNullOrEmpty(name))
             {
-                if(name1 != 0)
+                if (name1 != 0)
                 {
                     products = await _context.Products.Where(x => x.Name.Contains(name) && x.CategoryId == name1).OrderBy(x => x.Id).ToPagedListAsync(page, limit);
                 }
@@ -42,15 +42,12 @@ namespace Lesson08_Lab.Areas.Admins.Controllers
             {
                 products = await _context.Products.Where(x => x.CategoryId == name1).OrderBy(x => x.Id).ToPagedListAsync(page, limit);
             }
-
-
             var appDbContext = _context.Products.Include(p => p.Category);
             ViewBag.keyword = name;
             ViewBag.keyword1 = name1;
             ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Name");
             return View(products);
         }
-
         // GET: Admins/Products/Details/5
         public async Task<IActionResult> Details(int? id)
         {

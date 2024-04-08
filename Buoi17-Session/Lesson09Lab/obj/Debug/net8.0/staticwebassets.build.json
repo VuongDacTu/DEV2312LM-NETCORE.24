@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wlPYr1kxIIHSMo+GHqe0pArpzQISQF+Y4g/RDoXmWGs=",
+  "Hash": "homduqMfsvK4EylJGpfh2xTm/sREtExPvvHeyP8940E=",
   "Source": "Lesson09Lab",
   "BasePath": "_content/Lesson09Lab",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\DEV2312LM-NETCORE.24\\Buoi17-Session\\Lesson09Lab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lesson09Lab.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\DEV2312LM-NETCORE.24\\Buoi17-Session\\Lesson09Lab\\wwwroot\\css\\Cart.css",
+      "SourceId": "Lesson09Lab",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DEV2312LM-NETCORE.24\\Buoi17-Session\\Lesson09Lab\\wwwroot\\",
+      "BasePath": "_content/Lesson09Lab",
+      "RelativePath": "css/Cart.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Cart.css"
     },
     {
       "Identity": "E:\\DEV2312LM-NETCORE.24\\Buoi17-Session\\Lesson09Lab\\wwwroot\\css\\font.css",

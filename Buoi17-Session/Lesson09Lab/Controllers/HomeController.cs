@@ -1,6 +1,8 @@
 using Lesson09Lab.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace Lesson09Lab.Controllers
 {
@@ -20,12 +22,14 @@ namespace Lesson09Lab.Controllers
 
         public IActionResult Privacy()
         {
+
             return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
+           
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }

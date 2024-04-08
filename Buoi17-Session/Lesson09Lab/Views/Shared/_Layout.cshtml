@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -7,6 +9,10 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Lesson09Lab.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Cart.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
 </head>
 <body>
     <header>
@@ -25,6 +31,24 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Product</a>
                         </li>
+                        @{
+                            var ss = HttpContextAccessor.HttpContext.Session.GetString("Member");
+
+                            if (ss != null)
+                            {
+                                var cus = Newtonsoft.Json.JsonConvert.DeserializeObject<Customer>(ss);
+                                <li class="nav-item">
+                                    <p>@cus.Name</p>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="CustomerMember" asp-action="Logout">Đăng xuất</a>
+                                </li>
+                            }else
+                            {
+                        
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="CustomerMember" asp-action="LoginCustomer">Login/Register</a>
+                                </li>
+                            }
+                         }
                     </ul>
                 </div>
             </div>
@@ -44,6 +68,9 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+
+
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>

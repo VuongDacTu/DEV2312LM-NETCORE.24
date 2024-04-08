@@ -2,6 +2,7 @@
 using Lesson09Lab.Models.CustomerModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 using System.Numerics;
 
@@ -39,7 +40,7 @@ namespace Lesson09Lab.Controllers
                 return View(carts);
             //}
 
-            return RedirectToAction("Index", "Products");
+            //return RedirectToAction("Index", "Products");
         }
         public IActionResult Add(int id)
         {
@@ -82,6 +83,92 @@ namespace Lesson09Lab.Controllers
         {
             HttpContext.Session.Remove("My-Cart");
             return RedirectToAction("Index");
+        }
+        public IActionResult Orders()
+        {
+            if(HttpContext.Session.GetString("Member") == null)
+            {
+                return RedirectToAction("LoginCustomer", "CustomerMember");
+            }
+            else
+            {
+                var dataMember = JsonConvert.DeserializeObject<Customer>(HttpContext.Session.GetString("Member"));
+                ViewBag.customer = dataMember;
+                float total = 0;
+                foreach(var item in carts)
+                {
+                    total += item.Quantity * item.Price;
+                }
+                ViewBag.total = total;
+                // Phương thức thanh toán
+                var dataPay = _context.PaymentMethods.ToList();
+                ViewData["IdPayment"] = new SelectList(dataPay, "Id", "Name", 1);
+            }
+            return View(carts);
+        }
+        public IActionResult Update(int id, int quantity)
+        {
+            if(carts.Any(c => c.Id == id))
+            {
+                carts.Where(c => c.Id == id).First().Quantity = quantity;
+                HttpContext.Session.SetString("My-Cart",JsonConvert.SerializeObject(carts));
+            }
+            return RedirectToAction("Index");
+        }
+        public async Task<IActionResult> OrderPay(IFormCollection form)
+        {
+            try
+            {
+                // thêm bảng order
+                var order = new Order();
+                order.NameReciver = form["NameReciver"];
+                order.Email = form["Email"];
+                order.Phone = form["Phone"];
+                order.Address = form["Address"];
+                order.Notes = form["Notes"];
+                order.Idpayment = long.Parse(form["Idpayment"]);
+                order.OrdersDate = DateTime.Now;
+                var dataMember = JsonConvert.DeserializeObject<Customer>(HttpContext.Session.GetString("Member"));
+                order.Idcustomer = dataMember.Id;
+                decimal total = 0;
+                foreach (var item in carts)
+                {
+                    total += item.Quantity + (decimal)item.Price;
+                }
+                order.TotalMoney = total;
+                // tạo orderId
+                var strOrderId = "DH";
+                string timestamp = DateTime.Now.ToString("yyyy-MM-dd.HH-mm-ss.fff");
+                strOrderId += "." + timestamp;
+                order.Idorders = strOrderId;
+                _context.Add(order);
+                await _context.SaveChangesAsync();
+                // lấy id bảng orders
+                var dataOder = _context.Orders.OrderByDescending(x => x.Id).FirstOrDefault();
+                foreach(var item in carts)
+                {
+                    OrderDetail od = new OrderDetail();
+
+                    od.Id = _context.OrderDetails.OrderByDescending(x => x.Id).FirstOrDefault().Id + 1;
+                    od.Idord = dataOder.Id;
+                    od.Idproduct = item.Id;
+                    od.Qty = item.Quantity;
+                    od.Price = (decimal)item.Price;
+                    od.Total = (decimal) item.Total;
+                    od.ReturnQty = 0;
+                    _context.Add(od);
+                    await _context.SaveChangesAsync();
+                }
+                HttpContext.Session.Remove("My-Cart");
+            }
+            catch (Exception ex)
+            {
+                throw;
+
+            }
+            return View();
+
+
         }
     }
 }
