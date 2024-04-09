@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson10CustomAtuhorize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ade18c90b626bf15b329c34503a554b70706068")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5e0bb28c25b8595aec18a9fba306fd5e30b31da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson10CustomAtuhorize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson10CustomAtuhorize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
